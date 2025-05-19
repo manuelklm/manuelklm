@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manuelklm
+## 👋 Hi, I’m @manuelklm
 - 👀 I’m interested in **Java**
 - 🌱 I’m currently learning **Spring Boot** and **React**
 - 💞️ I’m looking to collaborate on **Java projects**
