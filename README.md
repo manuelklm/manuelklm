@@ -47,7 +47,9 @@
 </p>
 
 ## 📊 My GitHub statistics
-<p width="100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=manuelklm&show_icons=true&theme=transparent" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelklm&layout=compact&theme=transparent" width="48%" />
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=manuelklm&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manuelklm&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>
