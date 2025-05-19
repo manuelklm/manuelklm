@@ -45,3 +45,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="45" height="45"/>
 </p>
+
+## 📊 My GitHub statistics
+<p width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=manuelklm&show_icons=true&theme=transparent" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelklm&layout=compact&theme=transparent" width="48%" />
+</p>
